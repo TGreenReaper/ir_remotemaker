@@ -8,3 +8,4 @@
 <p>It helps people easily make map files even easier than copying/pasting.</p>
 <br>
 <h2>Where should I get started?</h2>
+<p> Go to Releases and either download the exe, or clone this repo and use python.</p>

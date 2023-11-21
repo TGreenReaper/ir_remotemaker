@@ -22,4 +22,5 @@
   <li> cd ir_remotemaker/source</li>
   <li> pip install -r source/requirements.txt</li>
   <li>python main.py</li>
+  <li> Have fun</li>
 </ol>

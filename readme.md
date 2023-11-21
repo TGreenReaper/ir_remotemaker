@@ -14,3 +14,12 @@
 <br>
 <h1> How do I use this?</h1>
 <p> Run either the .exe or .py file, it will prompt you with stuff you need to fill out. Once it is all done it will provide your created map file. It also is available in outputs/output.txt</p>
+<br>
+<h1>How to install ir_remotemaker with python.</h1>
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height="300px" width="300px">
+<ol>
+  <li> git clone https://github.com/TGreenReaper/ir_remotemaker </li>
+  <li> cd ir_remotemaker/source</li>
+  <li> pip install -r requirements.txt</li>
+  <li>python main.py</li>
+</ol>

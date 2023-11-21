@@ -1,6 +1,6 @@
 <h1> IR_REMOTE Maker by The Green Reaper</h1>
 
-
+<img src="source/flipper.jpg" width="300px" height="300px">
 <h2> What is it?</h2>
 <p> A program to automate making map files for the ir_remote app.</p>
 <br>

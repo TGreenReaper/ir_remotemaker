@@ -1,4 +1,4 @@
-<h1> IR_REMOTE Maker by The Green Reaper</h1>
+<h1> IR_REMOTE Map Maker by The Green Reaper</h1>
 
 <img src="source/flipper.jpg" width="300px" height="300px">
 <h2> What is it?</h2>

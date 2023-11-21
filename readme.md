@@ -20,6 +20,6 @@
 <ol>
   <li> git clone https://github.com/TGreenReaper/ir_remotemaker </li>
   <li> cd ir_remotemaker/source</li>
-  <li> pip install -r requirements.txt</li>
+  <li> pip install -r source/requirements.txt</li>
   <li>python main.py</li>
 </ol>

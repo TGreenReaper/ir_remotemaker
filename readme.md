@@ -8,7 +8,7 @@
 <p>It helps people easily make map files even easier than copying/pasting.</p>
 <br>
 <h2>Where should I get started?</h2>
-<p> Go to Releases and either download the exe, or clone this repo and use python.</p>
+<p> Go to <a href="https://github.com/TGreenReaper/ir_remotemaker/releases/tag/app">Releases</a> and either download the exe, or clone this repo and use python.</p>
 <h1> IS THIS A VIRUSSS</h1>
 <p> First of all why would I make a virus and want to help people at the same time? It is not a virus and the source code which anyone can see proves it.</p>
 <br>
